@@ -55,3 +55,9 @@ VVI Tricks:
 * String Compair: strcmp(s_var,s_var); //when string are equal return value 0 otherwise 1;
 * String Reverse: strrev(str_var);
 * that is string
+
+
+
+
+
+that is ok
